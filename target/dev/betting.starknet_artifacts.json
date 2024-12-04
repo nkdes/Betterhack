@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"7higs8ieg1nv4","package_name":"betting","contract_name":"BettingContract","module_path":"betting::BettingContract","artifacts":{"sierra":"betting_BettingContract.contract_class.json","casm":"betting_BettingContract.compiled_contract_class.json"}}]}
