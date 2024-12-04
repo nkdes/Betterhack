@@ -1,0 +1,207 @@
+[
+  {
+    "id": "evt_001",
+    "name": "StarkNet Summer Hackathon",
+    "description": "Build the future of StarkNet with innovative L2 solutions",
+    "maxParticipants": 20,
+    "maxTeamSize": 4,
+    "teamsLockDate": "2024-12-08T07:46:13.145Z",
+    "endDate": "2024-12-15T07:46:13.147Z",
+    "status": "upcoming",
+    "creatorAddress": "0x50d67a6e0fb4c721056f12f1d5476286953c42b782695e035140548d6ca27f7",
+    "teams": [
+      {
+        "id": "team_001",
+        "name": "DeFi Pioneers",
+        "description": "Building next-gen DeFi protocols",
+        "members": [
+          "0x4580f4dd91dbc31d8032274f5aa9d18af341651cd40f4a6e6599ddf66be0937"
+        ],
+        "eventId": "evt_001"
+      }
+    ]
+  },
+  {
+    "id": "evt_002",
+    "name": "Cairo Quest",
+    "description": "Explore the depths of Cairo programming",
+    "maxParticipants": 15,
+    "maxTeamSize": 3,
+    "teamsLockDate": "2024-12-06T07:46:13.147Z",
+    "endDate": "2024-12-11T07:46:13.147Z",
+    "status": "upcoming",
+    "creatorAddress": "0x211dd837c89a09217d3525e363f68f1531412e0d85c7bdb0256955fd782150e",
+    "teams": [
+      {
+        "id": "team_002",
+        "name": "Cairo Cats",
+        "description": "Purr-fecting Cairo contracts",
+        "members": [
+          "0x499e78ca43f73e006e112bd4b6b931c97a709ad6798858f0913e6a8f3d75492"
+        ],
+        "eventId": "evt_002"
+      }
+    ]
+  },
+  {
+    "id": "evt_003",
+    "name": "ZK Gaming Challenge",
+    "description": "Create the next generation of ZK-powered games",
+    "maxParticipants": 25,
+    "maxTeamSize": 5,
+    "teamsLockDate": "2024-11-29T07:46:13.147Z",
+    "endDate": "2024-12-06T07:46:13.147Z",
+    "status": "betting",
+    "creatorAddress": "0x50d67a6e0fb4c721056f12f1d5476286953c42b782695e035140548d6ca27f7",
+    "teams": [
+      {
+        "id": "team_003",
+        "name": "ZK Warriors",
+        "description": "Building secure gaming experiences",
+        "members": [
+          "0x4580f4dd91dbc31d8032274f5aa9d18af341651cd40f4a6e6599ddf66be0937",
+          "0x211dd837c89a09217d3525e363f68f1531412e0d85c7bdb0256955fd782150e"
+        ],
+        "eventId": "evt_003"
+      },
+      {
+        "id": "team_004",
+        "name": "Game Masters",
+        "description": "Revolutionizing blockchain gaming",
+        "members": [
+          "0x499e78ca43f73e006e112bd4b6b931c97a709ad6798858f0913e6a8f3d75492"
+        ],
+        "eventId": "evt_003"
+      }
+    ]
+  },
+  {
+    "id": "evt_004",
+    "name": "DeFi Innovation Sprint",
+    "description": "Revolutionize decentralized finance",
+    "maxParticipants": 30,
+    "maxTeamSize": 6,
+    "teamsLockDate": "2024-11-28T07:46:13.147Z",
+    "endDate": "2024-12-05T07:46:13.147Z",
+    "status": "betting",
+    "creatorAddress": "0x211dd837c89a09217d3525e363f68f1531412e0d85c7bdb0256955fd782150e",
+    "teams": [
+      {
+        "id": "team_005",
+        "name": "DeFi Wizards",
+        "description": "Crafting financial magic",
+        "members": [
+          "0x50d67a6e0fb4c721056f12f1d5476286953c42b782695e035140548d6ca27f7",
+          "0x499e78ca43f73e006e112bd4b6b931c97a709ad6798858f0913e6a8f3d75492"
+        ],
+        "eventId": "evt_004"
+      }
+    ]
+  },
+  {
+    "id": "evt_005",
+    "name": "StarkNet Infrastructure Challenge",
+    "description": "Build essential infrastructure for StarkNet ecosystem",
+    "maxParticipants": 40,
+    "maxTeamSize": 4,
+    "teamsLockDate": "2024-11-17T07:46:13.147Z",
+    "endDate": "2024-11-24T07:46:13.147Z",
+    "status": "finished",
+    "creatorAddress": "0x499e78ca43f73e006e112bd4b6b931c97a709ad6798858f0913e6a8f3d75492",
+    "teams": [
+      {
+        "id": "team_006",
+        "name": "Infrastructure Giants",
+        "description": "Building the backbone of StarkNet",
+        "members": [
+          "0x50d67a6e0fb4c721056f12f1d5476286953c42b782695e035140548d6ca27f7",
+          "0x4580f4dd91dbc31d8032274f5aa9d18af341651cd40f4a6e6599ddf66be0937"
+        ],
+        "eventId": "evt_005"
+      },
+      {
+        "id": "team_007",
+        "name": "Network Ninjas",
+        "description": "Stealthy infrastructure solutions",
+        "members": [
+          "0x211dd837c89a09217d3525e363f68f1531412e0d85c7bdb0256955fd782150e"
+        ],
+        "eventId": "evt_005"
+      }
+    ],
+    "rankings": [
+      {
+        "id": "team_006",
+        "name": "Infrastructure Giants",
+        "description": "Building the backbone of StarkNet",
+        "members": [
+          "0x50d67a6e0fb4c721056f12f1d5476286953c42b782695e035140548d6ca27f7",
+          "0x4580f4dd91dbc31d8032274f5aa9d18af341651cd40f4a6e6599ddf66be0937"
+        ],
+        "eventId": "evt_005"
+      },
+      {
+        "id": "team_007",
+        "name": "Network Ninjas",
+        "description": "Stealthy infrastructure solutions",
+        "members": [
+          "0x211dd837c89a09217d3525e363f68f1531412e0d85c7bdb0256955fd782150e"
+        ],
+        "eventId": "evt_005"
+      }
+    ]
+  },
+  {
+    "id": "evt_006",
+    "name": "Cairo Smart Contract Competition",
+    "description": "Create innovative smart contracts using Cairo",
+    "maxParticipants": 35,
+    "maxTeamSize": 5,
+    "teamsLockDate": "2024-11-10T07:46:13.147Z",
+    "endDate": "2024-11-17T07:46:13.147Z",
+    "status": "finished",
+    "creatorAddress": "0x4580f4dd91dbc31d8032274f5aa9d18af341651cd40f4a6e6599ddf66be0937",
+    "teams": [
+      {
+        "id": "team_008",
+        "name": "Smart Builders",
+        "description": "Building secure smart contracts",
+        "members": [
+          "0x50d67a6e0fb4c721056f12f1d5476286953c42b782695e035140548d6ca27f7"
+        ],
+        "eventId": "evt_006"
+      },
+      {
+        "id": "team_009",
+        "name": "Contract Kings",
+        "description": "Mastering Cairo contracts",
+        "members": [
+          "0x211dd837c89a09217d3525e363f68f1531412e0d85c7bdb0256955fd782150e",
+          "0x499e78ca43f73e006e112bd4b6b931c97a709ad6798858f0913e6a8f3d75492"
+        ],
+        "eventId": "evt_006"
+      }
+    ],
+    "rankings": [
+      {
+        "id": "team_009",
+        "name": "Contract Kings",
+        "description": "Mastering Cairo contracts",
+        "members": [
+          "0x211dd837c89a09217d3525e363f68f1531412e0d85c7bdb0256955fd782150e",
+          "0x499e78ca43f73e006e112bd4b6b931c97a709ad6798858f0913e6a8f3d75492"
+        ],
+        "eventId": "evt_006"
+      },
+      {
+        "id": "team_008",
+        "name": "Smart Builders",
+        "description": "Building secure smart contracts",
+        "members": [
+          "0x50d67a6e0fb4c721056f12f1d5476286953c42b782695e035140548d6ca27f7"
+        ],
+        "eventId": "evt_006"
+      }
+    ]
+  }
+]

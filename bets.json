@@ -1,0 +1,56 @@
+[
+  {
+    "eventId": "evt_003",
+    "teamId": "team_003",
+    "bettor": "0x50d67a6e0fb4c721056f12f1d5476286953c42b782695e035140548d6ca27f7",
+    "amount": 100
+  },
+  {
+    "eventId": "evt_003",
+    "teamId": "team_004",
+    "bettor": "0x211dd837c89a09217d3525e363f68f1531412e0d85c7bdb0256955fd782150e",
+    "amount": 150
+  },
+  {
+    "eventId": "evt_003",
+    "teamId": "team_003",
+    "bettor": "0x499e78ca43f73e006e112bd4b6b931c97a709ad6798858f0913e6a8f3d75492",
+    "amount": 200
+  },
+  {
+    "eventId": "evt_004",
+    "teamId": "team_005",
+    "bettor": "0x4580f4dd91dbc31d8032274f5aa9d18af341651cd40f4a6e6599ddf66be0937",
+    "amount": 300
+  },
+  {
+    "eventId": "evt_004",
+    "teamId": "team_005",
+    "bettor": "0x211dd837c89a09217d3525e363f68f1531412e0d85c7bdb0256955fd782150e",
+    "amount": 250
+  },
+  {
+    "eventId": "evt_005",
+    "teamId": "team_006",
+    "bettor": "0x50d67a6e0fb4c721056f12f1d5476286953c42b782695e035140548d6ca27f7",
+    "amount": 400
+  },
+  {
+    "eventId": "evt_005",
+    "teamId": "team_007",
+    "bettor": "0x4580f4dd91dbc31d8032274f5aa9d18af341651cd40f4a6e6599ddf66be0937",
+    "amount": 350
+  },
+  {
+    "eventId": "evt_006",
+    "teamId": "team_008",
+    "bettor": "0x211dd837c89a09217d3525e363f68f1531412e0d85c7bdb0256955fd782150e",
+    "amount": 500
+  },
+  {
+    "eventId": "evt_006",
+    "teamId": "team_009",
+    "bettor": "0x499e78ca43f73e006e112bd4b6b931c97a709ad6798858f0913e6a8f3d75492",
+    "amount": 450
+  }
+]

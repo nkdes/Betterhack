@@ -1,0 +1,49 @@
+{
+  "name": "betterhack",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "cleanup": "node server.js",
+    "dev:server": "ts-node src/server/index.ts",
+    "build:server": "tsc -p tsconfig.server.json",
+    "start:server": "node dist/server/index.js"
+  },
+  "dependencies": {
+    "@hello-pangea/dnd": "^17.0.0",
+    "@starknet-react/core": "1.0.4",
+    "@types/uuid": "^10.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^7.8.3",
+    "next": "14.0.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "starknet": "5.24.3",
+    "starknetkit": "1.0.22",
+    "uuid": "^11.0.3"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/mongoose": "^5.11.96",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  },
+  "description": "A decentralized hackathon platform utilizing betting as a way to fund prize pools and interact with hackathons. Built during 42 Berlin x Starknet Hackathon.",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
